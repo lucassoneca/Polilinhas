@@ -1,6 +1,7 @@
 # Polyline
 
-A new Flutter project.
+Desenvolvi uma tela que consome 2 APIs, sendo 1 do mapa (OpenStreetMap) e uma que utiliza as linhas de ônibus (DFTrans).
+O intuíto era mostrar uma tela com uma barra de pesquisa, onde eu consiga buscar uma linha de ônibus e mostrar o seu percuso no mapa.
 
 ## Getting Started
 
